@@ -13,5 +13,5 @@ Currículo da Jornada Dev
 ### Dia 3
   Criamos o layout de experiências e melhoramos a estilização.
 
-## Dia 4
+### Dia 4
   Adicionamos a formação acadêmica ao nosso projeto, e eu melhorei visualmente a estrutura do código.
