@@ -25,4 +25,4 @@ Currículo da Jornada Dev
 
 
 ### Dia 7
-  Melhoramos o nosso CSS, e melhorei a formatação do meu código para deixar o mais limpo possível.
+  Melhoramos o nosso CSS, e melhorei a formatação do meu código para deixar o mais limpo possível. Também terminamos e colocamos nosso projeto online.
