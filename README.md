@@ -1,6 +1,7 @@
 # jornada-dev
 Currículo da Jornada Dev
 
+[🔗 Clique aqui para acessar](https://scieq.github.io/jornada-dev/)
 
 ### Dia 1
   Apresentaram alguns conceitos básicos do HTML, Git e Github. Criamos algumas tags e também nosso primeiro commit, assim como o pull.
