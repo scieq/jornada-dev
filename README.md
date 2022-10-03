@@ -21,3 +21,7 @@ Currículo da Jornada Dev
 
 ### Dia 6
   Foi adicionado a parte de Cursos e Certificados.
+
+
+### Dia 7
+  Melhoramos o nosso CSS, e melhorei a formatação do meu código para deixar o mais limpo possível.
